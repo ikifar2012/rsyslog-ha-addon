@@ -5,6 +5,7 @@
     "description": "Rsyslog Home Assistant Add-on for monitoring the logs of your Tasmota devices",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
     "startup": "services",
+    "image": "ikifar/rsyslog-ha-{arch}",
     "boot": "auto",
     "map": ["share:rw"],
     "ports": {
