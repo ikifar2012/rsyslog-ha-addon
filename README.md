@@ -1,5 +1,5 @@
-# Template Add-On
-This is a Template Repo
+# Rsyslog
+Rsyslog Home Assistant Add-on for monitoring the logs of your Tasmota devices
 # Installation
 This add-on can be added via my [Home Assistant Add-on repository](https://github.com/ikifar2012/ha-addons):
 ```

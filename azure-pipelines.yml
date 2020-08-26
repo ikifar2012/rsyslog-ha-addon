@@ -4,9 +4,9 @@
 # https://aka.ms/yaml
 variables:
   - name: REPO
-    value: ha-addon-template
+    value: rsyslog-ha-addon
   - name: ADDON
-    value: addon
+    value: rsyslog
 trigger:
 - master
 pr: none
