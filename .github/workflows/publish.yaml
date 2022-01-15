@@ -24,6 +24,6 @@ jobs:
         with:
           args: |
             --all \
-            --target remote-backup \
+            --target rsyslog \
             --docker-user ${{ secrets.DOCKERHUB_USERNAME }} \
             --docker-password ${{ secrets.DOCKERHUB_TOKEN }}
