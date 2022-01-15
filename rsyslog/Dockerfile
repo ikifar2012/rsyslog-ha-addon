@@ -4,7 +4,7 @@ FROM ${BUILD_FROM}
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
 # Install Components
-RUN apt-get update && apt-get install -y rsyslog
+RUN apk add --no-cache rsyslog
 
 # Copy data for add-on
 COPY rootfs /
