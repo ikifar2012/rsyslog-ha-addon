@@ -1,4 +1,4 @@
-# 2022.1.0
+# 2022.5.0
 
 - Upgrade base image to 11.1.2
 - Sign with Codenotary CAS
