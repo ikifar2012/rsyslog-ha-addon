@@ -1,5 +1,12 @@
 # 2022.1.0
 
+- Upgrade base image to 11.1.2
+- 
+
+**Full Changelog**: https://github.com/ikifar2012/rsyslog-ha-addon/compare/2022.1.0...2022.5.0
+
+# 2022.1.0
+
 - Switched to alpine base image
 - Converted to YAML format
 - Moved docs to [addons.mathesonsteplock.ca](https://addons.mathesonsteplock.ca/docs/addons/rsyslog/basic-config)
