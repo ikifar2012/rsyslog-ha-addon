@@ -1,3 +1,9 @@
+# 2022.5.1
+
+- Testing repository updater to automate deployment of new releases.
+
+**Full Changelog**: https://github.com/ikifar2012/rsyslog-ha-addon/compare/2022.5.0...2022.5.1
+
 # 2022.5.0
 
 - Upgrade base image to 11.1.2
